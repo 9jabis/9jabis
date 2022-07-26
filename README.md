@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/STACK-88CE02?style=flat-square&logo=GreenSockt&logoColor=white"/></a>
+STACK
 
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>
 
